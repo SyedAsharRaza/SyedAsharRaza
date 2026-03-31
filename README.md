@@ -1,5 +1,5 @@
 # 💫 About Me:
-Building production-ready mobile applications with Flutter and exploring clean architecture patterns<br>Flutter open-source projects and mobile app development<br>Backend integration, DevOps, and scaling Flutter applications<br>Advanced Flutter state management (Bloc, Riverpod), Firebase cloud functions, and CI/CD pipelines<br>Flutter, Dart, Provider state management, Clean Architecture, and mobile UI/UX design<br>I built a complete inventory management system from scratch in 6 weeks as a personal challenge<br>
+Building production-ready mobile applications with Flutter and exploring clean architecture patterns<br>Flutter open-source projects and mobile app development<br>Backend integration and scaling Flutter applications<br>Flutter, Dart, Provider state management, Clean Architecture, and mobile UI/UX design<br>
 
 
 ## 🌐 Socials:
